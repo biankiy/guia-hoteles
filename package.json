@@ -4,10 +4,11 @@
   "description": "primer proyecto con Node.js",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+	 "dev": "lite-server",
+  	"test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
+   "repository":{
+   "type": "git",
     "url": "git+https://github.com/biankiy/guia-hoteles.git"
   },
   "author": "Bianca Gimenez",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/biankiy/guia-hoteles/issues"
   },
-  "homepage": "https://github.com/biankiy/guia-hoteles#readme"
+  "homepage": "https://github.com/biankiy/guia-hoteles#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
