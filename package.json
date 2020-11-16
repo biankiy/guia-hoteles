@@ -1,0 +1,19 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "primer proyecto con Node.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biankiy/guia-hoteles.git"
+  },
+  "author": "Bianca Gimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biankiy/guia-hoteles/issues"
+  },
+  "homepage": "https://github.com/biankiy/guia-hoteles#readme"
+}
